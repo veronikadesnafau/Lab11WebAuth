@@ -1,8 +1,8 @@
 # Lab11Web 
 Login, Auth dan logout.
 
-###### Nama : Fara Deviana
-###### NIM : 312010407
+###### Nama : Veronika Desna Fau
+###### NIM : 312010333
 ###### Kelas : TI.A.2
 
 ## Instruksi Praktikum
